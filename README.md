@@ -1,6 +1,6 @@
 # Hand Tracking Jump Controller 🖐🎮
 
-####Overview:
+#### Overview:
 This project is a hand-tracking-based jump controller that allows users to control actions (such as jumping) using hand gestures via a webcam. It utilizes OpenCV, cvzone's HandTrackingModule, and ctypes for keyboard input simulation.
 
 #### Features ✨:
