@@ -46,9 +46,9 @@ pip install opencv-python cvzone numpy
 
 #### Code Structure 🧑‍💻📂:
 
-```main.py```: Contains the OpenCV-based hand-tracking logic.
+* ```main.py```: Contains the OpenCV-based hand-tracking logic.
 
-```directkeys.py```: Defines PressKey() and ReleaseKey() for simulating key presses.
+* ```directkeys.py```: Defines PressKey() and ReleaseKey() for simulating key presses.
 
 Enjoy coding! 🚀
 
