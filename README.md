@@ -3,7 +3,7 @@
 ####Overview:
 This project is a hand-tracking-based jump controller that allows users to control actions (such as jumping) using hand gestures via a webcam. It utilizes OpenCV, cvzone's HandTrackingModule, and ctypes for keyboard input simulation.
 
-####Features ✨:
+#### Features ✨:
 
 * Real-time hand tracking using OpenCV and cvzone.
 
@@ -46,9 +46,9 @@ pip install opencv-python cvzone numpy
 
 #### Code Structure 🧑‍💻📂:
 
-* ```main.py```: Contains the OpenCV-based hand-tracking logic.
+ ```main.py```: Contains the OpenCV-based hand-tracking logic.
 
-* ```directkeys.py```: Defines PressKey() and ReleaseKey() for simulating key presses.
+ ```directkeys.py```: Defines PressKey() and ReleaseKey() for simulating key presses.
 
 Enjoy coding! 🚀
 
